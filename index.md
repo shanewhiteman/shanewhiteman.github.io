@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Shane J Whiteman</title>
+	<link rel="shortcut icon" href="C:\Users\Shane\Pictures\programtings\shane.png">
+	<!-- Bulma Version 0.8.x-->
+	<link rel="stylesheet" href="https://unpkg.com/bulma@0.8.0/css/bulma.min.css" />
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+		integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="../css/contact.css">
+  <script src="./shane_script.js"></script>
+</head>
+
+<body>  
+	<section class="hero is-fullheight">
+		<div class="hero-body">
+			<div class="container has-text-centered">
+				<div class="columns is-1 is-variable ">
+					<div class="column is-half has-text-left">
+            			<h1 class="title is-2">Shane Whiteman</h1>
+            			<p class="is-size-6">Brooklyn, NY</p>
+            			<p class="is-invisible">to be used</p>
+						<p class="is-size-5"> College student aspiring to be a programming junkie with a basic knowledge of computer <a class="has-background-info has-text-black">hardware and software.</a>
+              			Always interested in <a class="has-background-danger has-text-black">learning something new</a>, always <a class="has-background-success has-text-black">open-minded</a>, and always keeping at it: <a class="has-background-warning has-text-black" id="encouraging_quote"></a></p>
+                        <p class="is-invisible">to be used</p>
+                        <p class="is-invisible">also to be used</p>
+						<ul><li><a href="https://github.com/Ploxly" class="button is-light is-large"><i class="fa fa-github" aria-hidden="true"></i></a> <a href="https://instagram.com"class="button is-light is-large"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a href="https://linkedin.com" class="button is-light is-large is-1"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li></ul>
+          			</div>
+					<div class="column is-half has-text-centered">
+						<div class="field">
+						<img src="C:\Users\Shane\Pictures\programtings\shane.png" alt="Compass" width="250" height="250">
+						</div>
+          			</div>
+				</div>
+			</div>
+		</div>
+  	</section>
+</body>
+</html>
